@@ -15,3 +15,4 @@ Papers
 ------
 - "[Introduction to Causal Inference](http://www.jmlr.org/papers/v11/spirtes10a.html)" by Peter Spirtes.
 - "[Causal Inference](http://proceedings.mlr.press/v6/pearl10a.html)" by Judea Pearl.
+- "[Replacing the do-calculus with Bayes rule](https://arxiv.org/abs/1906.07125)" by Finnian Lattimore and David Rohde.
