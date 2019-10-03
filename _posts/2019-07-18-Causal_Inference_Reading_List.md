@@ -15,4 +15,5 @@ Papers
 ------
 - "[Introduction to Causal Inference](http://www.jmlr.org/papers/v11/spirtes10a.html)" by Peter Spirtes.
 - "[Causal Inference](http://proceedings.mlr.press/v6/pearl10a.html)" by Judea Pearl.
+- "[From Dependency to Causality:  A Machine LearningApproach](http://www.jmlr.org/papers/v16/bontempi15a.html)" by Gianluca Bontempi and Maxime Flauder.
 - "[Replacing the do-calculus with Bayes rule](https://arxiv.org/abs/1906.07125)" by Finnian Lattimore and David Rohde.
