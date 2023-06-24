@@ -11,6 +11,7 @@ Alicia A. Johnson, Miles Q. Ott and Mine Dogucu.
 - *Conformal Prediction: A Gentle Introduction* by Anastasios N. Angelopoulos and Stephen Bates.
 - *Dataset Shift in Machine Learning*, edited by Joaquin Quiñonero-Candela, Masashi Sugiyama, Anton Schwaighofer, and Neil D. Lawrence.
 - *Bayesian Modeling and Computation in Python* by Osvaldo A. Martin, Ravin Kumar, and Junpeng Lao.
+- *High-Dimensional Statistics - A Non-Asymptotic Viewpoint* by Martin J. Wainwright.
 
 <!---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
