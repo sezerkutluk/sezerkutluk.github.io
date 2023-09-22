@@ -6,7 +6,9 @@ permalink: /about/
 
 <img style="float: left; padding: 20px;" src="../sezer.jpg" width="150" />
 
-I have recently completed my [ERCIM 'Alain Bensoussan' postdoctoral fellowship](https://fellowship.ercim.eu) at [Fraunhofer Institute for Mechatronic Systems Design (IEM)](https://www.iem.fraunhofer.de), Trusted Machine Intelligence Group. This fellowship program is organized by [European Research Consortium for Informatics and Mathematics](https://www.ercim.eu/). I worked on explainable AI with an emphasis on time series models. I was mainly focused on instance-based, post-hoc counterfactual explanations for black-box classification and anomaly detection models.
+I am currently working as a research scientist at [Leibniz Institute ATB](https://atb-potsdam.de/) in Potsdam. I am part of the Data Science in Bioeconomy department, and also the [Understandable Machine Intelligence (UMI) Lab.](https://twitter.com/UMI_Lab_AI), working on explainable AI.
+
+I completed my [ERCIM 'Alain Bensoussan' postdoctoral fellowship](https://fellowship.ercim.eu) at [Fraunhofer Institute for Mechatronic Systems Design (IEM)](https://www.iem.fraunhofer.de), Trusted Machine Intelligence Group. This fellowship program is organized by [European Research Consortium for Informatics and Mathematics](https://www.ercim.eu/). I worked on explainable AI with an emphasis on time series models. I was mainly focused on instance-based, post-hoc counterfactual explanations for black-box classification and anomaly detection models.
 
 Previosly, I was an Engineering Manager (in AI Research) & Senior Research Engineer at [Huawei Technologies Turkey R&D Center](https://www.huawei.com/en/).
 
