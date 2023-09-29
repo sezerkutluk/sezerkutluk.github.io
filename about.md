@@ -8,6 +8,8 @@ permalink: /about/
 
 I am currently working as a research scientist at [Leibniz Institute ATB](https://atb-potsdam.de/) in Potsdam. I am part of the Data Science in Bioeconomy department, and also the [Understandable Machine Intelligence (UMI) Lab.](https://twitter.com/UMI_Lab_AI), working on explainable AI.
 
+Before joining ATB, I spent 1 year with Fraunhofer, 8 years with Huawei, 2 years with Netaş, and 3 years with ITU MSPR Lab. in reverse chronological order.
+
 I completed my [ERCIM 'Alain Bensoussan' postdoctoral fellowship](https://fellowship.ercim.eu) at [Fraunhofer Institute for Mechatronic Systems Design (IEM)](https://www.iem.fraunhofer.de), Trusted Machine Intelligence Group. This fellowship program is organized by [European Research Consortium for Informatics and Mathematics](https://www.ercim.eu/). I worked on explainable AI with an emphasis on time series models. I was mainly focused on instance-based, post-hoc counterfactual explanations for black-box classification and anomaly detection models.
 
 Previosly, I was an Engineering Manager (in AI Research) & Senior Research Engineer at [Huawei Technologies Turkey R&D Center](https://www.huawei.com/en/).
@@ -24,17 +26,17 @@ At Huawei, I worked on research projects on machine learning, computer vision, v
 
 Before Huawei, I was a Signal Processing Software Design Engineer at [Netaş Telecommunications](https://netas.com.tr) in Istanbul where I developed embedded signal processing software for satellite navigation.
 
-I have a work experience of almost 14 years (1 year at Fraunhofer, 8 years at Huawei, 2 years at Netaş, 3 years at ITU MSPR Lab.).
-
-[Google Scholar](https://scholar.google.com/citations?user=srwGJWcAAAAJ)
-[ORCID](https://orcid.org/0000-0002-3048-5526)
-[LinkedIn](https://www.linkedin.com/in/sezerkutluk),
-[ResearchGate](https://www.researchgate.net/profile/Sezer_Kutluk),
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=36915186900),
-[Web of Science](https://www.webofscience.com/wos/author/record/783641),
-[Semantic Scholar](https://www.semanticscholar.org/author/Sezer-Kutluk/2684370),
-[DBLP](https://dblp.org/pid/05/10845.html),
-[Twitter](https://twitter.com/sezerkutluk).
+Some links:
+- [Google Scholar](https://scholar.google.com/citations?user=srwGJWcAAAAJ)
+- [Patents](https://patents.google.com/?inventor=sezer+kutluk)
+- [ORCID](https://orcid.org/0000-0002-3048-5526)
+- [LinkedIn](https://www.linkedin.com/in/sezerkutluk),
+- [ResearchGate](https://www.researchgate.net/profile/Sezer_Kutluk),
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36915186900),
+- [Web of Science](https://www.webofscience.com/wos/author/record/783641),
+- [Semantic Scholar](https://www.semanticscholar.org/author/Sezer-Kutluk/2684370),
+- [DBLP](https://dblp.org/pid/05/10845.html),
+- [Twitter](https://twitter.com/sezerkutluk).
 
 <!---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
