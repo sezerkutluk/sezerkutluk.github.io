@@ -26,16 +26,15 @@ Before Huawei, I was a Signal Processing Software Design Engineer at [Netaş Tel
 
 I have a work experience of almost 14 years (1 year at Fraunhofer, 8 years at Huawei, 2 years at Netaş, 3 years at ITU MSPR Lab.).
 
-My publications can be reached through my [Google Scholar profile](https://scholar.google.com/citations?user=srwGJWcAAAAJ).
-
-Other profiles of mine:
-- [LinkedIn profile](https://www.linkedin.com/in/sezerkutluk),
-- [ResearchGate](https://www.researchgate.net/profile/Sezer_Kutluk),
-- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36915186900),
-- [Web of Science](https://www.webofscience.com/wos/author/record/783641),
-- [Semantic Scholar](https://www.semanticscholar.org/author/Sezer-Kutluk/2684370),
-- [DBLP](https://dblp.org/pid/05/10845.html),
-- [Twitter](https://twitter.com/sezerkutluk).
+[Google Scholar](https://scholar.google.com/citations?user=srwGJWcAAAAJ)
+[ORCID](https://orcid.org/0000-0002-3048-5526)
+[LinkedIn](https://www.linkedin.com/in/sezerkutluk),
+[ResearchGate](https://www.researchgate.net/profile/Sezer_Kutluk),
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=36915186900),
+[Web of Science](https://www.webofscience.com/wos/author/record/783641),
+[Semantic Scholar](https://www.semanticscholar.org/author/Sezer-Kutluk/2684370),
+[DBLP](https://dblp.org/pid/05/10845.html),
+[Twitter](https://twitter.com/sezerkutluk).
 
 <!---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
