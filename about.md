@@ -8,7 +8,7 @@ permalink: /about/
 
 I worked in industry for 10 years, as well as in universities and non-university research institutes, totaling more than 15 years of experience in AI, machine learning, computer vision, information retrieval, and signal processing.
 
---- 
+<p></p>
 
 ## Work Experience
 
