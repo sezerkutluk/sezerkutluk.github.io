@@ -6,6 +6,7 @@ permalink: /about/
 
 <img style="float: left; padding: 20px;" src="../sezer.jpg" width="150" />
 
+---
 
 ## Work Experience
 
