@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<img style="padding: 20px;" src="../sezer.jpg" width="150" />
+<img src="../sezer.jpg" width="150" />
+I worked in industry for 10 years, as well as in universities and non-university research institutes, totaling more than 15 years of experience in AI, machine learning, computer vision, information retrieval, and signal processing.
 
 ## Work Experience
-
-Before joining ATB, I spent 1 year with Fraunhofer, 8 years with Huawei, 2 years with Netaş, and 3 years with ITU MSPR Lab. in reverse chronological order.
 
 - September 2023 - ... : Scientist @ [Leibniz Institute ATB](https://atb-potsdam.de/), Data Science in Bioeconomy Department &  [Understandable Machine Intelligence (UMI) Lab.](https://twitter.com/UMI_Lab_AI). Focus: Explainable AI, trustworthy AI, AI applications in bioeconomy (mostly computer vision).
 - April 2022 - March 2023: [ERCIM 'Alain Bensoussan' Fellow](https://fellowship.ercim.eu) @ [Fraunhofer Institute for Mechatronic Systems Design (IEM)](https://www.iem.fraunhofer.de), Trusted Machine Intelligence Group. This fellowship program is organized by [European Research Consortium for Informatics and Mathematics](https://www.ercim.eu/). Focus: Explainable AI with an emphasis on post-hoc and counterfactual explanations for time series models.
