@@ -6,8 +6,6 @@ permalink: /about/
 
 <img style="padding: 20px;" src="../sezer.jpg" width="150" />
 
-<br>
-
 ## Work Experience
 
 Before joining ATB, I spent 1 year with Fraunhofer, 8 years with Huawei, 2 years with Netaş, and 3 years with ITU MSPR Lab. in reverse chronological order.
