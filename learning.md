@@ -5,7 +5,12 @@ permalink: /learning/
 usemathjax: true
 ---
 
+## Courses
 - HarvardX PH559x, "Causal Diagrams: Draw Your Assumptions Before Your Conclusions" by Miguel Hernán on edX.
+
+## Books
+- "AI Engineering - Building Applications with Foundation Models" by Chip Huyen.
+- "The Hundred-Page Language Models Book" by Andriy Burkov.
 
 <!-- - *Bayes Rules! An Introduction to Applied Bayesian Modeling* by 
 Alicia A. Johnson, Miles Q. Ott and Mine Dogucu.

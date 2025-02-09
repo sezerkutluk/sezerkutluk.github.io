@@ -8,6 +8,8 @@ permalink: /about/
 
 I worked in industry for 10 years, as well as in universities and non-university research institutes, totaling more than 15 years of experience in AI, machine learning, computer vision, information retrieval, and signal processing.
 
+--- 
+
 ## Work Experience
 
 - September 2023 - ... : Scientist @ [Leibniz Institute ATB](https://atb-potsdam.de/), Data Science in Bioeconomy Department &  [Understandable Machine Intelligence (UMI) Lab.](https://twitter.com/UMI_Lab_AI). Focus: Explainable AI, trustworthy AI, AI applications in bioeconomy (mostly computer vision).
