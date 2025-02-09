@@ -6,6 +6,7 @@ permalink: /about/
 
 <img style="float: left; padding: 20px;" src="../sezer.jpg" width="150" />
 
+
 ## Work Experience
 
 Before joining ATB, I spent 1 year with Fraunhofer, 8 years with Huawei, 2 years with Netaş, and 3 years with ITU MSPR Lab. in reverse chronological order.
@@ -18,13 +19,15 @@ Before joining ATB, I spent 1 year with Fraunhofer, 8 years with Huawei, 2 years
 
 ## Education
 
-I got my PhD degree in Electrical-Electronics Engineering from Istanbul University-Cerrahpasa (which was formerly part of Istanbul University). My main research topics are machine learning, signal processing, probabilistic modeling, and computer vision. One research direction I am interested in is trustworthy machine learning via explainable AI and modeling/quantifying uncertainties. Some other keywords are Bayesian inference, probabilistic graphical models, subspace learning and sparse approximations, and image/video/audio processing. I am also interested in causal inference and Bayesian statistics (especially approximate inference, sampling, and likelihood-free inference) though I have a limited understanding in these.
+- PhD in Electrical-Electronics Engineering from Istanbul University-Cerrahpasa (which was formerly part of Istanbul University).
 
-During my PhD I worked on probabilistic models for spectral-spatial classification of hyperspectral images under the supervision of [Prof. Dr. Aydın Akan](https://scholar.google.com.tr/citations?user=WSG0eK4AAAAJ&hl=en) and [Prof. Dr. Koray Kayabol](https://scholar.google.com.tr/citations?user=lIuXJKEAAAAJ&hl=en). In this problem, a land cover segmentation map is obtained by pixel-wise classification. I developed several generative and discriminative classification models with non-stationary mixture models, random fields, deep learning, subspace learning, and optimization algorithms for machine learning.
+    My main research topics are machine learning, signal processing, probabilistic modeling, and computer vision. One research direction I am interested in is trustworthy machine learning via explainable AI and modeling/quantifying uncertainties. Some other keywords are Bayesian inference, probabilistic graphical models, subspace learning and sparse approximations, and image/video/audio processing. I am also interested in causal inference and Bayesian statistics (especially approximate inference, sampling, and likelihood-free inference) though I have a limited understanding in these.
 
-I pursued my MSc degree from Istanbul Technical University in Biomedical Engineering under the supervision of [Prof. Dr. Bilge Günsel](https://scholar.google.com.tr/citations?user=ZxQ_Pm8AAAAJ&hl=en). My thesis was about tissue density classification in mammographic images using local features.
+    During my PhD I worked on probabilistic models for spectral-spatial classification of hyperspectral images under the supervision of [Prof. Dr. Aydın Akan](https://scholar.google.com.tr/citations?user=WSG0eK4AAAAJ&hl=en) and [Prof. Dr. Koray Kayabol](https://scholar.google.com.tr/citations?user=lIuXJKEAAAAJ&hl=en). In this problem, a land cover segmentation map is obtained by pixel-wise classification. I developed several generative and discriminative classification models with non-stationary mixture models, random fields, deep learning, subspace learning, and optimization algorithms for machine learning.
 
-I got my bachelor's degree in Electrical-Electronics Engineering with an emphasis on telecommunications and signal processing from Istanbul University. Graduation project was real-time music and audio effects on DSP.
+- MSc in Biomedical Engineering from Istanbul Technical University under the supervision of [Prof. Dr. Bilge Günsel](https://scholar.google.com.tr/citations?user=ZxQ_Pm8AAAAJ&hl=en). My thesis was about tissue density classification in mammographic images using local features.
+
+- Bachelor's in Electrical-Electronics Engineering from Istanbul University with an emphasis on telecommunications and signal processing. Graduation project was real-time music and audio effects on DSP.
 
 Some links:
 - [Google Scholar](https://scholar.google.com/citations?user=srwGJWcAAAAJ)
