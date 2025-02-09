@@ -7,8 +7,9 @@ permalink: /about/
 <img style="float: left; margin-right: 20px;" src="../sezer.jpg" width="150" />
 
 I worked in industry for 10 years, as well as in universities and non-university research institutes, totaling more than 15 years of experience in AI, machine learning, computer vision, information retrieval, and signal processing.
-
-<p></p>
+<br>
+<br>
+<br>
 
 ## Work Experience
 
