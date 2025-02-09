@@ -10,6 +10,8 @@ I worked in industry for 10 years, as well as in universities and non-university
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ## Work Experience
 
