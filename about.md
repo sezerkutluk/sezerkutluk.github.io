@@ -14,8 +14,8 @@ I worked in industry for 10 years, as well as in universities and non-university
 <br>
 
 ## Work Experience
-
-- September 2023 - ... : Scientist @ [Leibniz Institute ATB](https://atb-potsdam.de/), Data Science in Bioeconomy Department &  [Understandable Machine Intelligence (UMI) Lab.](https://twitter.com/UMI_Lab_AI). Focus: Explainable AI, trustworthy AI, AI applications in bioeconomy (mostly computer vision).
+- April 2025 - ...: Postdoc @ Scuola Normale Superiore, part of Knowledge Discovery and Data Mining (KDD) Lab.
+- September 2023 - March 2025: Scientist @ [Leibniz Institute ATB](https://atb-potsdam.de/), Data Science in Bioeconomy Department &  [Understandable Machine Intelligence (UMI) Lab.](https://twitter.com/UMI_Lab_AI). Focus: Explainable AI, trustworthy AI, AI applications in bioeconomy (mostly computer vision).
 - April 2022 - March 2023: [ERCIM 'Alain Bensoussan' Fellow](https://fellowship.ercim.eu) @ [Fraunhofer Institute for Mechatronic Systems Design (IEM)](https://www.iem.fraunhofer.de), Trusted Machine Intelligence Group. This fellowship program is organized by [European Research Consortium for Informatics and Mathematics](https://www.ercim.eu/). Focus: Explainable AI with an emphasis on post-hoc and counterfactual explanations for time series models.
 - March 2014 - March 2022: Engineering Manager (in AI Research) & (Senior) Research Engineer & Team Leader & Project Manager @ [Huawei Technologies Turkey R&D Center](https://www.huawei.com/en/). Focus: Machine learning, computer vision, video processing, information retrieval, learning-to-rank, grant applications, patent applications, project management, technical team management, and people management.
 - June 2012 - February 2014: Signal Processing Software Design Engineer @ [Netaş Telecommunications](https://netas.com.tr). Focus: Embedded signal processing software for satellite navigation.
