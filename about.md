@@ -36,6 +36,7 @@ Some links:
 - [Patents](https://patents.google.com/?inventor=sezer+kutluk)
 - [ORCID](https://orcid.org/0000-0002-3048-5526)
 - [LinkedIn](https://www.linkedin.com/in/sezerkutluk)
+- [Hugging Face](https://huggingface.co/sezerkutluk)
 - [ResearchGate](https://www.researchgate.net/profile/Sezer_Kutluk)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36915186900)
 - [Web of Science](https://www.webofscience.com/wos/author/record/783641)
