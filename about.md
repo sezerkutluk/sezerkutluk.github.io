@@ -11,6 +11,8 @@ I worked in industry for 10 years, as well as in universities and non-university
 <br>
 <br>
 
+My main research topics are machine learning, signal processing, probabilistic modeling, and computer vision. Currently focused on trustworthy machine learning, explainable AI, uncertainty calibration, robustness and efficiency in learning, as well as LLM and RAG pipelines. Some other keywords are subspace learning, sparse approximations, signal decomposition, and image/video/audio processing. I am also interested in Bayesian statistics and causal inference though I have a limited understanding in these.
+
 ## Work Experience
 - April 2025 - ...: Postdoc @ Scuola Normale Superiore, part of Knowledge Discovery and Data Mining (KDD) Lab.
 - September 2023 - March 2025: Scientist @ [Leibniz Institute ATB](https://atb-potsdam.de/), Data Science in Bioeconomy Department &  [Understandable Machine Intelligence (UMI) Lab.](https://twitter.com/UMI_Lab_AI). Focus: Explainable AI, trustworthy AI, AI applications in bioeconomy (mostly computer vision).
@@ -22,8 +24,6 @@ I worked in industry for 10 years, as well as in universities and non-university
 ## Education
 
 - PhD in Electrical-Electronics Engineering from Istanbul University-Cerrahpasa (which was formerly part of Istanbul University).
-
-    My main research topics are machine learning, signal processing, probabilistic modeling, and computer vision. One research direction I am interested in is trustworthy machine learning via explainable AI and modeling/quantifying uncertainties. Some other keywords are Bayesian inference, probabilistic graphical models, subspace learning and sparse approximations, and image/video/audio processing. I am also interested in causal inference and Bayesian statistics (especially approximate inference, sampling, and likelihood-free inference) though I have a limited understanding in these.
 
     During my PhD I worked on probabilistic models for spectral-spatial classification of hyperspectral images under the supervision of [Prof. Dr. Aydın Akan](https://scholar.google.com.tr/citations?user=WSG0eK4AAAAJ&hl=en) and [Prof. Dr. Koray Kayabol](https://scholar.google.com.tr/citations?user=lIuXJKEAAAAJ&hl=en). In this problem, a land cover segmentation map is obtained by pixel-wise classification. I developed several generative and discriminative classification models with non-stationary mixture models, random fields, deep learning, subspace learning, and optimization algorithms for machine learning.
 
