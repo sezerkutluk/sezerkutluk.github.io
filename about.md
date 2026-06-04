@@ -3,13 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+Machine learning researcher with experience spanning probabilistic modeling, computer vision, information retrieval, trustworthy AI, and learning dynamics across industrial and academic settings.
 
+Current interests:
+- LLM and RAG pipelines, hallucination detection, explainable AI
+- Learning dynamics, uncertainty calibration, generalization, efficiency, robustness
+
+---
 I worked in industry for 10 years, as well as in universities and non-university research institutes, totaling more than 15 years of experience in AI, machine learning, computer vision, information retrieval, and signal processing.
-<br>
-<br>
-<br>
-<br>
-<br>
 
 My main research topics are machine learning, signal processing, probabilistic modeling, and computer vision. Currently focused on trustworthy machine learning, explainable AI, uncertainty calibration, robustness and efficiency in learning, as well as LLM and RAG pipelines. Some other keywords are subspace learning, sparse approximations, signal decomposition, and image/video/audio processing. I am also interested in Bayesian statistics and causal inference though I have a limited understanding in these.
 
