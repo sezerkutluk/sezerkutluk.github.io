@@ -118,7 +118,7 @@ $$
 \end{aligned}
 $$
 
-So, since $$p^{(t)}$$ depends on $$t$$, the effective learning rate scales adaptively with $$w_2$$. Because $$w_2$$ is initialized near zero, updates push it away from zero, growing its magnitude $$|w_2|$$ which results in larger step sizes as optimization progresses. Meanwhile, the momentum term accumulates past gradients, dynamically adjusting its influence based on the value of $$w_2$$ instead of relying on a fixed hyperparameter.
+So, since $$p^{(t)}$$ depends on $$t$$, the effective learning rate scales adaptively with $$w_2$$. Because $$w_2$$ is initialized near zero, updates push it away from zero, growing its magnitude $$\vert w_2 \vert$$ which results in larger step sizes as optimization progresses. Meanwhile, the momentum term accumulates past gradients, dynamically adjusting its influence based on the value of $$w_2$$ instead of relying on a fixed hyperparameter.
 
 Although what we do is plain gradient descent, this scalar overparameterization and near-zero initialization demonstrate implicit acceleration through the combination of an adaptive effective learning rate and an adaptive momentum.
 
