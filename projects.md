@@ -6,7 +6,7 @@ permalink: /projects/
 
 Learning Dynamics, Grokking, Structure/Geometry-based Regularization, Uncertainty, PEFT and Optimization etc.
 --
-I am investigating learning and uncertainty dynamics, some regularization techniques based on structure and/or geometrywhich can be useful to tackle catastrophic forgetting, and also deep learning optimization and PEFT.
+I am investigating learning and uncertainty dynamics, some regularization techniques based on structure and/or geometry which can be useful to tackle catastrophic forgetting, and also deep learning optimization and PEFT.
 
 Trustworthy and Explainable LLMs, RAG Pipelines, Hallucination Mitigation
 --
