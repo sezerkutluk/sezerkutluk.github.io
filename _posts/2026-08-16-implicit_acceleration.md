@@ -47,6 +47,7 @@ w_2^{(t+1)} &\leftarrow w_2^{(t)}-\eta\nabla_{w_2^{(t)}}
 $$
 
 Since $$\mathbf{w}=\mathbf{w}_1w_2$$,
+
 $$
 \begin{aligned}
 \mathbf{w}^{(t+1)}&=\mathbf{w}_1^{(t+1)} w_2^{(t+1)}\\
@@ -94,6 +95,7 @@ $$
 $$
 
 From these, we can write the following:
+
 $$
 \begin{aligned}
 \mathbf{w}^{(t)} & \approx \sum_{\tau=1}^{t-1} \left( -p^{(\tau)}\nabla_{\mathbf{w}^{(\tau)}} \prod _{j={\tau+1}}^{t-1}(1-\gamma^{(j)}) \right)\\
@@ -102,6 +104,7 @@ $$
 $$
 
 If we rewrite the update rule with this:
+
 $$
 \begin{aligned}
 \mathbf{w}^{(t+1)} &\leftarrow \mathbf{w}^{(t)}-p^{(t)}\nabla_{\mathbf{w}^{(t)}}-\gamma^{(t)}\mathbf{w}^{(t)}\\
