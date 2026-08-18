@@ -3,22 +3,24 @@ layout: page
 title: About
 permalink: /about/
 ---
-Machine learning researcher with experience spanning probabilistic modeling, computer vision, information retrieval, trustworthy AI, and learning dynamics across industrial and academic settings.
+AI/ML researcher, ex-Huawei Engineering Manager & Research Team Lead. Experience spanning probabilistic modeling, computer vision, information retrieval, trustworthy AI, and learning dynamics across industrial and academic settings.
 
 Current interests:
 - LLM and RAG pipelines, hallucination detection, explainable AI
-- Learning dynamics, uncertainty calibration, generalization, efficiency, robustness
+- Learning dynamics, uncertainty calibration, generalization, efficiency, robustness, machine learning optimization.
 
 ---
-I worked in industry for 10 years, as well as in universities and non-university research institutes, totaling more than 15 years of experience in AI, machine learning, computer vision, information retrieval, and signal processing.
+My research adventure started with the TRECVID efforts in 2009 when I joined the MSPR Group. For TRECVID, we worked on content-based copy detection, video content modelling with non-negative matrix factorization, and video fingerprinting.
+
+I worked in industry for 10 years, as well as in universities and non-university research institutes, totaling more than 17+ years of experience in AI, machine learning, computer vision, information retrieval, and signal processing. 
 
 My main research topics are machine learning, signal processing, probabilistic modeling, and computer vision. Currently focused on trustworthy machine learning, explainable AI, uncertainty calibration, robustness and efficiency in learning, as well as LLM and RAG pipelines. Some other keywords are subspace learning, sparse approximations, signal decomposition, and image/video/audio processing. I am also interested in Bayesian statistics and causal inference though I have a limited understanding in these.
 
 ## Work Experience
-- April 2025 - ...: Postdoc @ Scuola Normale Superiore, part of Knowledge Discovery and Data Mining (KDD) Lab.
-- September 2023 - March 2025: Scientist @ [Leibniz Institute ATB](https://atb-potsdam.de/), Data Science in Bioeconomy Department &  [Understandable Machine Intelligence (UMI) Lab.](https://twitter.com/UMI_Lab_AI). Focus: Explainable AI, trustworthy AI, AI applications in bioeconomy (mostly computer vision).
+- April 2025 - present: Research Fellow @ Scuola Normale Superiore, part of Knowledge Discovery and Data Mining (KDD) Lab.
+- September 2023 - March 2025: Scientist & Project Coordinator @ [Leibniz Institute ATB](https://atb-potsdam.de/), Data Science in Bioeconomy Department &  [Understandable Machine Intelligence (UMI) Lab.](https://twitter.com/UMI_Lab_AI). Focus: Explainable AI, trustworthy AI, AI applications in bioeconomy (mostly computer vision).
 - April 2022 - March 2023: [ERCIM 'Alain Bensoussan' Fellow](https://fellowship.ercim.eu) @ [Fraunhofer Institute for Mechatronic Systems Design (IEM)](https://www.iem.fraunhofer.de), Trusted Machine Intelligence Group. This fellowship program is organized by [European Research Consortium for Informatics and Mathematics](https://www.ercim.eu/). Focus: Explainable AI with an emphasis on post-hoc and counterfactual explanations for time series models.
-- March 2014 - March 2022: Engineering Manager (in AI Research) & (Senior) Research Engineer & Team Leader & Project Manager @ [Huawei Technologies Turkey R&D Center](https://www.huawei.com/en/). Focus: Machine learning, computer vision, video processing, information retrieval, learning-to-rank, grant applications, patent applications, project management, technical team management, and people management.
+- March 2014 - March 2022: Engineering Manager (in AI Research) & (Senior) Research Engineer & Research Team Lead & Project Manager @ [Huawei Technologies Turkey R&D Center](https://www.huawei.com/en/). Focus: Machine learning, computer vision, video processing, information retrieval, learning-to-rank, grant applications, patent applications, project management, technical team management, and people management.
 - June 2012 - February 2014: Signal Processing Software Design Engineer @ [Netaş Telecommunications](https://netas.com.tr). Focus: Embedded signal processing software for satellite navigation.
 - July 2009 - May 2012: Researcher @ [Multimedia Signal Processing and Pattern Recognition Lab.](http://www.mspr.itu.edu.tr) of Istanbul Technical University. Focus: Computer vision, image/video modeling, processing, classification, retrieval, fingerprinting, and copy detection.
 
