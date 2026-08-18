@@ -6,7 +6,7 @@ usemathjax: true
 
 In machine learning optimization and linear network literature, many works have shown that overparameterization can change optimization dynamics. In this short post, we will look into a simple example by Arora et al. (2018), and see how a small trick helps accelerate gradient descent by implicitly combining adaptive learning rate and past gradient trajectories as in momentum.
 
-Let's look into linear regression with $\ell_p$ loss:
+Let's look into linear regression with $$\ell_p$$ loss:
 
 $$
 \begin{aligned}
@@ -14,9 +14,9 @@ L(\mathbf{w})=\mathbb{E}_{(\mathbf{x},y) \sim S} \left[\frac{1}{p}(\mathbf{x}^\t
 \end{aligned}
 $$
 
-Here $\mathbf{x} \in \mathbb{R}^d$ is the input vector, $y \in \mathbb{R}$ is the output which is a scalar, $S$ is the training set, $\mathbf{w} \in \mathbb{R}^d$ is the parameter vector. 
+Here $$\mathbf{x} \in \mathbb{R}^d$$ is the input vector, $$y \in \mathbb{R}$$ is the output which is a scalar, $$S$$ is the training set, $$\mathbf{w} \in \mathbb{R}^d$$ is the parameter vector. 
 
-Something very cool happens when we write $\mathbf{w}_1w_2$ instead of $\mathbf{w}$, where $\mathbf{w}_1 \in \mathbb{R}^d$ and $w_2 \in \mathbb{R}$. So the optimization objective becomes:
+Something very cool happens when we write $$\mathbf{w}_1w_2$$ instead of $$\mathbf{w}$$, where $$\mathbf{w}_1 \in \mathbb{R}^d$$ and $$w_2 \in \mathbb{R}$$. So the optimization objective becomes:
 
 $$
 \begin{aligned}
@@ -24,7 +24,7 @@ L(\mathbf{w}_1, w_2)=\mathbb{E}_{(\mathbf{x},y) \sim S} \left[\frac{1}{p}(\mathb
 \end{aligned}
 $$
 
-If we write the gradients of the objective functions of $L(\mathbf{w})$ and $L(\mathbf{w}_1, w_2)$ with respect to $\mathbf{w}$ and $\mathbf{w}_1$ and $w_2$: 
+If we write the gradients of the objective functions of $$L(\mathbf{w})$$ and $$L(\mathbf{w}_1, w_2)$$ with respect to $$\mathbf{w}$$ and $$\mathbf{w}_1$$ and $$w_2$$: 
 
 $$
 \begin{aligned}
@@ -36,7 +36,7 @@ $$
 \end{aligned}
 $$
 
-With $\eta$ as the learning rate, we can write the gradient descent update rule as follows:
+With $$\eta$$ as the learning rate, we can write the gradient descent update rule as follows:
 
 $$
 \begin{aligned}
@@ -46,7 +46,7 @@ w_2^{(t+1)} &\leftarrow w_2^{(t)}-\eta\nabla_{w_2^{(t)}}
 \end{aligned}
 $$
 
-Since $\mathbf{w}=\mathbf{w}_1w_2$,
+Since $$\mathbf{w}=\mathbf{w}_1w_2$$,
 $$
 \begin{aligned}
 \mathbf{w}^{(t+1)}&=\mathbf{w}_1^{(t+1)} w_2^{(t+1)}\\
@@ -55,7 +55,7 @@ $$
 \end{aligned}
 $$
 
-Because $\eta$ is chosen as a small number, we can drop the quadratic term, $\eta ^2\nabla_{\mathbf{w}_1^{(t)}}\nabla_{w_2^{(t)}}$. With $\nabla_{\mathbf{w}_1} = w_2 \nabla_{\mathbf{w}}$ and $\mathbf{w}_1=\mathbf{w}/w_2$, this becomes:
+Because $$\eta$$ is chosen as a small number, we can drop the quadratic term, $$\eta ^2\nabla_{\mathbf{w}_1^{(t)}}\nabla_{w_2^{(t)}}$$. With $$\nabla_{\mathbf{w}_1} = w_2 \nabla_{\mathbf{w}}$$ and $$\mathbf{w}_1=\mathbf{w}/w_2$$, this becomes:
 
 $$
 \begin{aligned}
@@ -64,7 +64,7 @@ $$
 \end{aligned}
 $$
 
-We can define $p^{(t)}=\eta (w_2^{(t)})^2 \in \mathbb{R}$ and $\gamma^{(t)} = \eta (w_2^{(t)})^{-1}\nabla_{w_2^{(t)}} \in \mathbb{R}$:
+We can define $$p^{(t)}=\eta (w_2^{(t)})^2 \in \mathbb{R}$$ and $$\gamma^{(t)} = \eta (w_2^{(t)})^{-1}\nabla_{w_2^{(t)}} \in \mathbb{R}$$:
 
 $$
 \begin{aligned}
@@ -73,7 +73,7 @@ $$
 \end{aligned}
 $$
 
-If we initialize the parameters $\mathbf{w}_1$ and $w_2$ near zero, $\mathbf{w}$ is near zero as well. Therefore, the parameters along iterations are weighted combinations of past gradients.
+If we initialize the parameters $$\mathbf{w}_1$$ and $$w_2$$ near zero, $$\mathbf{w}$$ is near zero as well. Therefore, the parameters along iterations are weighted combinations of past gradients.
 
 Let's write down a few steps:
 
@@ -110,7 +110,7 @@ $$
 \end{aligned}
 $$
 
-And we can simplify this by defining $\mu^{(t,\tau)}=-\gamma^{(t)}p^{(\tau)} \prod _{j={\tau+1}}^{t-1}(1-\gamma^{(j)})$:
+And we can simplify this by defining $$\mu^{(t,\tau)}=-\gamma^{(t)}p^{(\tau)} \prod _{j={\tau+1}}^{t-1}(1-\gamma^{(j)})$$:
 
 $$
 \begin{aligned}
@@ -118,7 +118,7 @@ $$
 \end{aligned}
 $$
 
-So, since $p^{(t)}$ depends on $t$, the effective learning rate scales adaptively with $w_2$. Because $w_2$ is initialized near zero, updates push it away from zero, growing its magnitude $|w_2|$ which results in larger step sizes as optimization progresses. Meanwhile, the momentum term accumulates past gradients, dynamically adjusting its influence based on the value of $w_2$ instead of relying on a fixed hyperparameter.
+So, since $$p^{(t)}$$ depends on $$t$$, the effective learning rate scales adaptively with $$w_2$$. Because $$w_2$$ is initialized near zero, updates push it away from zero, growing its magnitude $$|w_2|$$ which results in larger step sizes as optimization progresses. Meanwhile, the momentum term accumulates past gradients, dynamically adjusting its influence based on the value of $$w_2$$ instead of relying on a fixed hyperparameter.
 
 Although what we do is plain gradient descent, this scalar overparameterization and near-zero initialization demonstrate implicit acceleration through the combination of an adaptive effective learning rate and an adaptive momentum.
 
