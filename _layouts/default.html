@@ -16,14 +16,26 @@
       {{ content }}
       {% if page.layout == "post" or page.url == "/" %}
       <div style="margin-top: 20px;">
-        <img src="https://sezer-github.goatcounter.com/count?p={{ page.url | url_encode }}&t=visitors"
-          alt="visitors counter" />
+        <span id="goatcounter-stats"></span>
       </div>
       {% endif %}
     </div>
   </main>
 
   {%- include footer.html -%}
+
+  <script data-goatcounter="https://sezer-github.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+  {% if page.layout == "post" or page.url == "/" %}
+  <script>
+    var checkGC = setInterval(function () {
+      if (window.goatcounter && window.goatcounter.visit_count) {
+        clearInterval(checkGC);
+        window.goatcounter.visit_count({ append: '#goatcounter-stats' });
+      }
+    }, 100);
+  </script>
+  {% endif %}
 
 </body>
 
