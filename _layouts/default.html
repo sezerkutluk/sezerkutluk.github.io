@@ -15,7 +15,7 @@
     <div class="wrapper">
       {% if page.layout == "post" or page.url == "/" %}
       <img
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={{ site.url }}{{ page.url | url_encode }}&count_bg=%237928CA&title_bg=%23555555&title=visitors%20since%20Aug%202026"
+        src="https://api.visitorbadge.io/api/visitors?path={{ site.url }}{{ page.url | url_encode }}&label=visitors%20since%20Aug%202026&countColor=%23263759"
         alt="visitors counter" />
       {% endif %}
       {{ content }}
