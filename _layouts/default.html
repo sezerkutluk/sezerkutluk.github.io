@@ -13,16 +13,20 @@
 
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
-      {% if page.layout == "post" or page.url == "/" %}
-      <img
-        src="https://api.visitorbadge.io/api/visitors?path={{ site.url }}{{ page.url | url_encode }}&label=visitors%20since%20Aug%202026&countColor=%23263759"
-        alt="visitors counter" />
-      {% endif %}
       {{ content }}
+      {% if page.layout == "post" or page.url == "/" %}
+      <div style="margin-top: 20px;">
+        <img src="https://sezer-github.goatcounter.com/counter/{{ page.url | url_encode }}.svg"
+          alt="visitors counter" />
+      </div>
+      {% endif %}
     </div>
   </main>
 
   {%- include footer.html -%}
+
+  <script data-goatcounter="https://sezer-github.goatcounter.com/count" data-goatcounter-settings='{"no_onload": true}'
+    async src="//gc.zgo.at/count.js"></script>
 
 </body>
 
