@@ -16,8 +16,7 @@
       {{ content }}
       {% if page.layout == "post" or page.url == "/" %}
       <div style="margin-top: 20px;">
-        <img src="https://sezer-github.goatcounter.com/counter/{{ page.url | url_encode }}.svg"
-          alt="visitors counter" />
+        <span id="stats-counter"></span>
       </div>
       {% endif %}
     </div>
@@ -25,8 +24,17 @@
 
   {%- include footer.html -%}
 
-  <!-- Analytics Tracker Script -->
   <script data-goatcounter="https://sezer-github.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  {% if page.layout == "post" or page.url == "/" %}
+  <script>
+    window.goatcounter = {
+      onload: function (count) {
+        var el = document.getElementById('stats-counter');
+        if (el) el.innerHTML = 'Visitors: ' + count.value;
+      }
+    };
+  </script>
+  {% endif %}
 
 </body>
 
