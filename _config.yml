@@ -18,7 +18,8 @@ email: sezer.kutluk %#!?!#% gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Sezer Kutluk's page. Might babble on about AI and stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sezerkutluk.github.io"
 twitter_username: sezerkutluk
 github_username:  sezerkutluk
 
