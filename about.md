@@ -3,14 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
-AI/ML researcher, former Engineering Manager & Research Team Lead at Huawei, with experience spanning probabilistic modeling, computer vision, information retrieval, trustworthy AI, and learning dynamics across industrial and academic settings.
+AI/ML researcher, former Engineering Manager & Research Team Lead at Huawei, with experience spanning probabilistic modeling, computer vision, information retrieval, trustworthy AI, learning dynamics, and real-world large-scale projects across industrial and academic settings.
 
 Current interests:
 - LLM and RAG pipelines, hallucination detection, explainable AI
 - Learning dynamics, uncertainty calibration, generalization, efficiency, regularization, machine learning optimization.
 
 ---
-My research adventure started with the TRECVID efforts in 2009 when I joined the MSPR Group. For TRECVID, we worked on content-based copy detection, video content modelling with non-negative matrix factorization, and video fingerprinting.
+My research adventure started with the TRECVID efforts in 2009 when I joined the MSPR Group. For TRECVID, we worked on content-based copy detection, video content modelling with non-negative matrix factorization, and video fingerprinting. This continued with image search and retrieval and medical image analysis, and then PhD in probabilistic ML for hyperspectral imaging and industrial research projects, grants, and patents on video technologies.
 
 I worked in industry for 10 years, as well as in universities and non-university research institutes, totaling more than 17+ years of experience in AI, machine learning, computer vision, information retrieval, and signal processing. 
 

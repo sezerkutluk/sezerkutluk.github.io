@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Experimental Design Issues in Hyperspectral Image Classification
+title: Experimental Design Flaws in Hyperspectral Image Classification
 usemathjax: true
 ---
 
