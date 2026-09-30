@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sezer Kutluk
-email: sezer.kutluk %#!?!#% gmail.com
+# email: sezer.kutluk %#!?!#% gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Sezer Kutluk's page. Might babble on about AI, machine learning, and stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -22,6 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sezerkutluk.github.io"
 twitter_username: sezerkutluk
 github_username:  sezerkutluk
+linkedin_username: sezerkutluk
 
 # Build settings
 markdown: kramdown
