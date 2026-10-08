@@ -4,6 +4,13 @@ title: Teaching & Talks
 permalink: /teaching/
 ---
 
+## Voluntary Teaching & Educational Service
+### Probability for Artificial Intelligence
+**Section Leader**
+* Massive online course organized by Stanford University, serving thousands of global students.
+* Role: Facilitating weekly interactive online sections.
+* [[pai.stanford.edu]](https://pai.stanford.edu/)
+
 ## Curriculum Design & Course Proposals
 
 ### Visual AI: Image Understanding, Multimodal Models, and Generative AI
@@ -11,7 +18,7 @@ permalink: /teaching/
 * **Overview:** Designed a comprehensive, first-level PhD course as a conceptual roadmap transitioning from classical vision fundamentals to the deep learning era, computer vision problems (object detection, segmentation, etc.), CNNs, vision transformers, self-supervised learning, multimodal (vision-language) representation learning, and generative diffusion models.
 * [[View Full Syllabus PDF]](https://drive.google.com/file/d/1xplQ_xf8uB9EOBU-gQo3R-lDOqZfTgQl/view?usp=drive_link)
 
-## Lectures
+## Academic Lectures
 
 ### A Short Introduction to Model Calibration in Machine Learning
 ***Lecture*** | *within Doctoral Programme Bioeconomy, Leibniz Institute ATB (2024)*
